@@ -6,3 +6,5 @@ It uses:
 LinqBridge from https://bitbucket.org/raboof/linqbridge/overview
 
 MyoSharp from https://github.com/tayfuzun/MyoSharp
+
+Code Contracts from https://github.com/Microsoft/CodeContracts
